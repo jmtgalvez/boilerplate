@@ -1,0 +1,29 @@
+[2025-01-14 09:39:24,542.542] INFO [43852] - Started server process [19472]
+[2025-01-14 09:39:24,543.543] INFO [43852] - Waiting for application startup.
+[2025-01-14 09:39:24,543.543] INFO [43852] - Application startup complete.
+[2025-01-14 09:39:24,543.543] INFO [43852] - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[2025-01-14 09:39:44,156.156] INFO [43852] - Shutting down
+[2025-01-14 09:39:44,264.264] INFO [43852] - Waiting for application shutdown.
+[2025-01-14 09:39:44,265.265] INFO [43852] - Application shutdown complete.
+[2025-01-14 09:39:44,265.265] INFO [43852] - Finished server process [19472]
+[2025-01-14 09:40:20,755.755] INFO [28624] - Started server process [43096]
+[2025-01-14 09:40:20,755.755] INFO [28624] - Waiting for application startup.
+[2025-01-14 09:40:20,757.757] INFO [28624] - Application startup complete.
+[2025-01-14 09:40:20,757.757] INFO [28624] - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[2025-01-14 09:40:29,246.246] INFO [28624] - 127.0.0.1:63356 - "GET / HTTP/1.1" 200
+[2025-01-14 09:41:15,156.156] INFO [28624] - 127.0.0.1:63357 - "GET / HTTP/1.1" 200
+[2025-01-14 09:41:15,815.815] INFO [28624] - 127.0.0.1:63357 - "GET / HTTP/1.1" 200
+[2025-01-14 09:41:15,982.982] INFO [28624] - 127.0.0.1:63357 - "GET / HTTP/1.1" 200
+[2025-01-14 09:41:16,110.110] INFO [28624] - 127.0.0.1:63357 - "GET / HTTP/1.1" 200
+[2025-01-14 09:41:19,423.423] INFO [28624] - Shutting down
+[2025-01-14 09:41:19,530.530] INFO [28624] - Waiting for application shutdown.
+[2025-01-14 09:41:19,531.531] INFO [28624] - Application shutdown complete.
+[2025-01-14 09:41:19,531.531] INFO [28624] - Finished server process [43096]
+[2025-01-14 09:46:58,064.064] INFO [19888] - Started server process [41668]
+[2025-01-14 09:46:58,064.064] INFO [19888] - Waiting for application startup.
+[2025-01-14 09:46:58,064.064] INFO [19888] - Application startup complete.
+[2025-01-14 09:46:58,065.065] INFO [19888] - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+[2025-01-14 09:47:05,799.799] INFO [19888] - Shutting down
+[2025-01-14 09:47:05,908.908] INFO [19888] - Waiting for application shutdown.
+[2025-01-14 09:47:05,908.908] INFO [19888] - Application shutdown complete.
+[2025-01-14 09:47:05,909.909] INFO [19888] - Finished server process [41668]

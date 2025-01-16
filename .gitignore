@@ -1,0 +1,8 @@
+**/.venv
+**/__pycache__
+
+**/service.spec
+**/build
+**/dist
+
+**/.env*.local
