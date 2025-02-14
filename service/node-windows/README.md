@@ -11,19 +11,21 @@ This is a simple example of how to run a Node.js application as a Windows servic
 
 1. Install Node.js
 
-````bash
+```bash
 npm install -g node-windows
 ```
 
 2. Link node-windows to project
+
 ```bash
 npm link node-windows
 ```
 
 3. Run service.js
+
 ```bash
 npm run service
-````
+```
 
 ## Stopping the service
 
