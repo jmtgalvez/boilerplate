@@ -1,0 +1,4 @@
+MAIL_FROM_NAME="Sam Pol"
+MAIL_FROM="sam@pol"
+MAIL_SERVER="mail_server"
+MAIL_PORT=196
